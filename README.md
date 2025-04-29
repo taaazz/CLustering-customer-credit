@@ -45,10 +45,14 @@ Proyek ini sangat relevan untuk perusahaan keuangan yang ingin memahami segmenta
 ---
 ## Hasil klustering
 <img width="471" alt="hasil clustering" src="https://github.com/user-attachments/assets/800f91dd-5c80-4428-8812-17c82a73ef84" />
+
 dari garfik kita dapat menyimpulkan bahwa:
 
+
 Klaster 0 cenderung menjadi pelanggan dengan perilaku konservatif, menggunakan batas kredit mereka dengan hati-hati dan jarang melakukan pembayaran penuh.
+
 Klaster 1 mencakup pelanggan dengan pendapatan yang lebih tinggi, memiliki saldo yang lebih besar, melakukan pembelian yang lebih sering, dan lebih cenderung untuk membayar penuh.
+
 Klaster 2 berisi pelanggan dengan profil keuangan yang lebih rentan, memiliki saldo dan batas kredit yang rendah, dan melakukan pembelian dengan frekuensi yang lebih rendah.
 
 Untuk selengkapnya dapat dicek pada file Klustering_customer.ipynb
